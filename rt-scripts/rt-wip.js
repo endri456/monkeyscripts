@@ -3,6 +3,7 @@
 // @description Script RT
 // @version 1.2
 // @grant none
+// @author Endri
 // @match https://rt.labs.it/rt/Dashboards/41326/*
 // ==/UserScript==
 
