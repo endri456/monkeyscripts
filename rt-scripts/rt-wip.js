@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name RT - WIP
 // @description Script RT
-// @version 1
+// @version 1.1
 // @grant none
 // @match https://rt.labs.it/rt/Dashboards/41326/*
 // ==/UserScript==
