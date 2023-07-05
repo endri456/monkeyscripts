@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name RT
+// @name RT - Color
 // @description Script RT
 // @version 1.1
 // @grant none
