@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 var trs = document.getElementsByTagName('tr');
-
+console.log("CIAONEEEE");
 var user = document.getElementsByClassName('current-user');
 
 for (var i = 1; i <= trs.length; i++) {
