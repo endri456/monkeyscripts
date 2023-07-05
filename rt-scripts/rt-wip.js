@@ -7,7 +7,6 @@
 // ==/UserScript==
 
 var trs = document.getElementsByTagName('tr');
-console.log("CIAONEEEE");
 var user = document.getElementsByClassName('current-user');
 
 for (var i = 1; i <= trs.length; i++) {
@@ -33,13 +32,3 @@ for (var i = 1; i <= trs.length; i++) {
     }
   }
 }
-
-console.log("TESTO PROVA");
-console.log("TESTO PROVA");
-console.log("TESTO PROVA");
-console.log("TESTO PROVA");
-console.log("TESTO PROVA 222");
-console.log("TESTO PROVA 222");
-console.log("TESTO PROVA 222");
-console.log("TESTO PROVA 222");
-console.log("TESTO PROVA 222");
