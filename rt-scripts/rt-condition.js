@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name     RT - apri condition
-// @version  2
+// @name     RT - Condition
+// @version  1.2
 // @grant    none
 // @match    https://rt.labs.it/rt/Ticket/Display.html*
 // @author   Tommy x Endri
