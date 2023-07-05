@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name RT
 // @description Script RT
-// @version 1
+// @version 1.1
 // @grant none
 // @author Endri
 // @match https://rt.labs.it/rt/*
@@ -44,7 +44,6 @@ for (var i = 1; i <= trs.length; i++) {
           break;
         case "galvero":
           tds[l].style.backgroundColor = "rgb(255, 0, 0)";
-          //tds[4].innerHTML = "<img src=\"https://new.labs.it/wp-content/uploads/2022/06/Gian-Alvero-1.jpeg\" width=\"50px\" height=\"50px\">";
           break;
         case "czuntini":
           tds[l].style.backgroundColor = "rgb(255, 181, 228)";
